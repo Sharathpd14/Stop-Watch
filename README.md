@@ -119,10 +119,4 @@ Works on all modern browsers that support:
 - React 19
 - CSS3
 
-## License
 
-This project is part of the Web App Cohort learning initiative.
-
----
-
-**Happy timing! 🚀**
